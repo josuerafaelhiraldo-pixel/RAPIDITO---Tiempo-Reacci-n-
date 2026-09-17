@@ -1,6 +1,6 @@
 # RAPIDITO---Tiempo-Reacción- Lista de preguntas
 ## ¿Cual es la finalidad?
- La finalidad es que el proyecto el profesor pueda clase  para microcontroladdores, saber usar  utilizar los timers.
+ La finalidad es que el proyecto el profesor pueda dar clase para microcontroladores, saber usar utilizar los timers.
 ## A que clase de estimulo? 
  dos tipos de estimulo, auditivo y visual en el mismo modulo. Medir el tiempo entre el estimulo y la reaccion como objetivo central.
 ## Como se mide la reacción?
